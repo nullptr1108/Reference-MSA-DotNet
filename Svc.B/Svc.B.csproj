@@ -44,8 +44,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Lib.HealthChecks\Lib.HealthChecks.csproj" />
-    <ProjectReference Include="..\Lib.Service\Lib.Service.csproj" />
+    <ProjectReference Include="..\Libraries\Lib.HealthChecks\Lib.HealthChecks.csproj" />
+    <ProjectReference Include="..\Libraries\Lib.Service\Lib.Service.csproj" />
   </ItemGroup>
 
 </Project>
